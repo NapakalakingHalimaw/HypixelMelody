@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelodyAutoclicker", "MelodyAutoclicker.csproj", "{AAB7EB5A-C827-4AE3-9E9F-D0824E718765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAB7EB5A-C827-4AE3-9E9F-D0824E718765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB7EB5A-C827-4AE3-9E9F-D0824E718765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB7EB5A-C827-4AE3-9E9F-D0824E718765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB7EB5A-C827-4AE3-9E9F-D0824E718765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22CACCAA-6DF4-4811-9050-037CDA3890EF}
+	EndGlobalSection
+EndGlobal
