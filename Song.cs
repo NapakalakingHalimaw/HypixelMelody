@@ -57,9 +57,9 @@ namespace MelodyAutoclicker
         {
             if (noteIndex == -1)
             {
-                StartPlaying();
-                return null;
+                return StartPlaying();
             }
+
             if (noteIndex >= Notes.Length)
             {
                 StopPlaying();
